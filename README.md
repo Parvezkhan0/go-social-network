@@ -2,7 +2,7 @@
 # Introduction
 This is a mini social network created with golang, gorilla/mux and gorm. I built this to get more familiar with the Go language. 
 I also decided to use go template just to get familiar with them. I'll probably go with rest apis for future projects.
-I intend to do some refactoring later on, but the functionalities are currently working. Feel free to fork it or make some suggestions to the current implementation.
+I intend to do some refactoring later on, but the functionalities are currently working.
 Inspiration gotten from <a href="/https://github.com/yTakkar/Go-Mini-Social-Network">yTakkar's</a> .
 
 # Requirements
