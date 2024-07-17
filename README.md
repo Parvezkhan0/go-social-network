@@ -13,8 +13,8 @@ PostgreSQL - from v10
 # Setup
 - Before setup, you must have PostgreSQL on your machine. Then clone this repository
 
-    > https://github.com/dsa0x/go-social-network.git
-
+    >[ https://github.com/dsa0x/go-social-network.git
+](https://github.com/Parvezkhan0/go-social-network.git)
 - cd into the project directory
 
    > cd go-social-network
